@@ -15,4 +15,5 @@ mqtt:
   topic: evcc # root topic for publishing, set empty to disable publishing
   # user:
   # password:
+  # clientID: 12345 # Static client id. Keep empty for random id
 ```
